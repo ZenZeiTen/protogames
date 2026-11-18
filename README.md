@@ -1,3 +1,6 @@
+> **This repository has moved.** It now lives in [ZenZeiTen/synthapps](https://github.com/ZenZeiTen/synthapps) at [`protogames/`](https://github.com/ZenZeiTen/synthapps/tree/main/protogames), with its full history.
+> This copy is archived: it stays here for its issues, pull requests and releases, and it is no longer updated. Please open new issues and pull requests in synthapps.
+
 # protogames
 ProtoGames is a collection of game prototypes, gameplay experiments, and development frameworks designed to transform ideas into playable experiences.
 
